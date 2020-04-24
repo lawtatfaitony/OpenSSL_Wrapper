@@ -1,5 +1,5 @@
 # OpenSSL_Wrapper
-
+很早期版本，只做参考，不做测试，否则浪费时间
 
 Provides:
 
